@@ -1,0 +1,29 @@
+# main links
+main:
+  - title: "Home"
+    url: https://tobesimple7.github.io/
+
+  - title: "About"
+    url: /about/
+
+  - title: "GitHub"
+    url: https://github.com/tobesimple7
+
+  # - title: "Projects"
+  #   url: /projects/
+
+  # - title: "Categories"
+  #   url: /categories/
+
+# sidebar navigation (categories)
+# 2022.02.15 sidebar update : simple ver.
+categories:
+  - title: "Javascript"
+    url: /categories/javascript/
+  - title: "svg"
+    url: /categories/svg/
+  - title: "Categories1"
+    url: /categories/categories1/
+
+
+
