@@ -1,5 +1,5 @@
 ---
-title: "Welcome to tobesimple3 blog."
+title: "Welcome to tobesimple7 blog."
 permalink: /about/
 layout: single
 comments: false

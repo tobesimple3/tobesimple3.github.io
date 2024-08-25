@@ -19,14 +19,14 @@ minimal_mistakes_skin: "plum"  # "default" "air", "aqua", ...plum
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "tobesimple3" # 상단 헤더에 보이는 블로그 명
+title: "tobesimple7" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
-name: "tobesimple3" # 블로그 닉네임 설정
-description: "tobesimple3 dev blog!" # 블로그 설명
-url: "https://tobesimple3.github.io" # 블로그 URL
+name: "tobesimple7" # 블로그 닉네임 설정
+description: "tobesimple7 dev blog!" # 블로그 설명
+url: "https://tobesimple7.github.io" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "tobesimple3/tobesimple3.github.io"
+repository: "tobesimple7/tobesimple7.github.io"
 teaser: #
 
 # logo                     : # 블로그명 앞에 로고 추가하고 싶을 경우 사용
@@ -105,9 +105,9 @@ author:
   # email            : "youremailhere@xxxxxx.com"
 
   links: # 사이트 링크
-     - label: "tobesimple3@gmail.com"
+     - label: "tobesimple7@gmail.com"
        icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:tobesimple3@gmail.com"
+       url: "mailto:tobesimple7@gmail.com"
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
 #       # url: "https://your-website.com"
@@ -119,7 +119,7 @@ author:
 #       # url: "https://facebook.com/"
 #     - label: "GitHub"
 #       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/tobesimple3/TbsGrid"
+#       url: "https://github.com/tobesimple7/TbsGrid"
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://www.instagram.com/"
